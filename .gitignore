@@ -7,6 +7,7 @@ config.yml
 *.duckdb
 *.csv
 *.docx
-docs/
+docs
+csvs
+RDS
 *.html
-
